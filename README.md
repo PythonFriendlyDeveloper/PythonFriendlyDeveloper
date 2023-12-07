@@ -2,7 +2,7 @@
 
 <img align="center" src="https://github.com/frappe/frappe/assets/153195674/d071047f-1f97-45da-9123-e0bd792113b3">
 
-## 👋 Hi, I’m @PythonFriendlyDeveloper
+## 👋 Hi, I’m Richard Jackson
 
 Welcome to my GitHub profile! I am a seasoned Python, Django, and Frappe developer with a passion for crafting efficient and scalable solutions. With years of experience in the field, I specialize in creating robust web applications, leveraging the power of Python and its frameworks.
 
