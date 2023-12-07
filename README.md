@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PythonFriendlyDeveloper
 
-img = "https://github.com/frappe/frappe/assets/153195674/d071047f-1f97-45da-9123-e0bd792113b3"
+<img align="center" src="https://github.com/frappe/frappe/assets/153195674/d071047f-1f97-45da-9123-e0bd792113b3">
 
 
 
